@@ -1,5 +1,7 @@
 [![console](docs/pictures/header.png)](https://gammasoft71.wixsite.com/xtd-console)
 
+# xtd_console was merged into [xtd](https://github.com/gammasoft71/xtd).
+
 [![Build Status](https://travis-ci.org/gammasoft71/xtd_console.svg?branch=master)](https://travis-ci.org/gammasoft71/xtd_console)
 [![Build status](https://ci.appveyor.com/api/projects/status/7i6t0xilki708d2s?svg=true)](https://ci.appveyor.com/project/gammasoft71/xtd-console)
 [![Reference Guide](https://img.shields.io/badge/code-Reference_Guide-brightgreen.svg)](https://codedocs.xyz/gammasoft71/xtd_console/)
